@@ -29,12 +29,18 @@
 <a href="https://github.com/omri374">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omri374&show_icons=true&theme=light&line_height=27" alt="Omri's github stats"/>
 </a>
+<br>
+
+### The main repos I contribute to:
+
 <a href="https://github.com/microsoft/presidio">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio&theme=light" />
 </a>
+
 <a href="https://github.com/microsoft/presidio-research">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio-research&theme=light" />
 </a>
+
 <a href="https://github.com/microsoft/taganomaly">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=taganomaly&theme=light" />
 </a>
