@@ -24,10 +24,10 @@
 
 
 <a href="https://github.com/omri374">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omri374&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omri374&theme=light&hide=javascript,html" />
 </a>
 <a href="https://github.com/omri374">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=omri374&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=omri374&show_icons=true&theme=light&line_height=27" alt="Omri's github stats"/>
 </a>
 <a href="https://github.com/microsoft/presidio">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio&theme=light" />
@@ -42,12 +42,4 @@
 <a href="https://github.com/omri374/moda">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omri374&repo=moda&theme=light" />
 </a>
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
