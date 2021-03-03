@@ -13,7 +13,7 @@
 
 
 
-- I’m a Senior data scientist at Microsoft.
+- I’m a principal data scientist at Microsoft.
 - I’m the lead of the [Microsoft Presidio](https://github.com/microsoft/presidio) project and the [TagAnomaly](https://github.com/microsoft/taganomaly) labeling tool.
 - My biggest passion is developing machine learning models and putting them in the hands of users.
 - Currently interested in NLP, data privacy and human-AI interaction
