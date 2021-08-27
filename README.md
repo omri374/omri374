@@ -49,3 +49,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omri374&repo=moda&theme=light" />
 </a>
 
+<a href="https://github.com/omri374/fabricml">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omri374&repo=fabricml&theme=light" />
+</a>
+
