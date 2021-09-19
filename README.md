@@ -22,10 +22,6 @@
 [![Linkedin: omri374](https://img.shields.io/badge/-omri374-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omrimendels)](https://www.linkedin.com/in/omrimendels)
 [![GitHub omri374](https://img.shields.io/github/followers/omri374?label=follow&style=social)](https://github.com/omri374)
 
-
-<a href="https://github.com/omri374">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omri374&theme=light&hide=javascript,html" />
-</a>
 <a href="https://github.com/omri374">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omri374&show_icons=true&theme=light&line_height=27" alt="Omri's github stats"/>
 </a>
