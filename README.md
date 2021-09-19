@@ -17,6 +17,11 @@
 - I’m the lead of the [Microsoft Presidio](https://github.com/microsoft/presidio) project and the [TagAnomaly](https://github.com/microsoft/taganomaly) labeling tool.
 - My biggest passion is developing machine learning models and putting them in the hands of users.
 - Currently interested in NLP, data privacy and human-AI interaction
+- Some of the blog posts I've published:
+  - [How we reduced our text similarity runtime by 99.96%](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35)
+  - [Custom NLP approaches to data anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929?source=user_profile---------2----------------------------)
+  - [Evaluation framework for information extraction](https://devblogs.microsoft.com/cse/2021/01/13/evaluation-framework-for-information-extraction/)
+  - [Real-time time series analysis at scale for trending topics detection](https://devblogs.microsoft.com/cse/2019/01/02/real-time-time-series-analysis-at-scale-for-trending-topics-detection/)
 - Pronouns: He/His
 
 [![Linkedin: omri374](https://img.shields.io/badge/-omri374-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omrimendels)](https://www.linkedin.com/in/omrimendels)
