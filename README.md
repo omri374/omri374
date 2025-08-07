@@ -13,10 +13,9 @@
 
 
 
-- I’m a principal data scientist at Microsoft.
-- I’m the lead of the [Microsoft Presidio](https://github.com/microsoft/presidio) project and the [TagAnomaly](https://github.com/microsoft/taganomaly) labeling tool.
-- My biggest passion is developing machine learning models and putting them in the hands of users.
-- Currently interested in NLP, data privacy and human-AI interaction
+- I’m a principal data science manager at Microsoft.
+- I’m one of the core contributors to [Microsoft Presidio](https://github.com/microsoft/presidio).
+- My tech and research interests lie on the intersection of humans and AI: human centric AI, personalization, privacy preserving AI.
 - Some of the blog posts I've published:
   - [How we reduced our text similarity runtime by 99.96%](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35)
   - [Custom NLP approaches to data anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929?source=user_profile---------2----------------------------)
