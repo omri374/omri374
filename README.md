@@ -31,25 +31,3 @@
 </a>
 <br>
 
-### The main repos I contribute to:
-
-<a href="https://github.com/microsoft/presidio">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio&theme=light" />
-</a>
-
-<a href="https://github.com/microsoft/presidio-research">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=presidio-research&theme=light" />
-</a>
-
-<a href="https://github.com/microsoft/taganomaly">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=taganomaly&theme=light" />
-</a>
-
-<a href="https://github.com/omri374/moda">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omri374&repo=moda&theme=light" />
-</a>
-
-<a href="https://github.com/omri374/fabricml">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omri374&repo=fabricml&theme=light" />
-</a>
-
