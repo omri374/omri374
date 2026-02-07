@@ -13,7 +13,6 @@
 
 
 
-- I’m a principal data science manager at Microsoft.
 - I’m one of the core contributors to [Microsoft Presidio](https://github.com/microsoft/presidio).
 - My tech and research interests lie on the intersection of humans and AI: human centric AI, personalization, privacy preserving AI.
 - Some of the blog posts I've published:
