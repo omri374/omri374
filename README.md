@@ -1,4 +1,4 @@
-## Hi there, I'm Omri Mendels! 👋
+## Welcome to my Github page
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omri374&label=Views&color=blue&style=plastic" alt="omri374" /> </p>
 
