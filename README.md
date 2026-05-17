@@ -25,3 +25,8 @@ I write about scaling NLP systems, data privacy, and information extraction. Her
 * 🕵️‍♂️ **[Custom NLP approaches to data anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)** *(Towards Data Science)*
 * 📊 **[Evaluation framework for information extraction](https://devblogs.microsoft.com/cse/2021/01/13/evaluation-framework-for-information-extraction/)** *(Microsoft DevBlogs)*
 * 📈 **[Real-time time series analysis at scale for trending topics detection](https://devblogs.microsoft.com/cse/2019/01/02/real-time-time-series-analysis-at-scale-for-trending-topics-detection/)** *(Microsoft DevBlogs)*
+
+<h3 align="left">📊 GitHub Analytics</h3>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omri374&show_icons=true&theme=radial&count_private=true" alt="Omri's GitHub Stats" height="180" />
+</p>
