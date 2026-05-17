@@ -12,7 +12,6 @@ An AI leader and researcher dedicated to building **human-centric AI, personaliz
 * 🧠 **Head of AI, Cofounder** at [Mindware.health](https://mindware.health)
 * 🛡️ **Core Contributor** to Microsoft's [Presidio](https://github.com/microsoft/presidio) privacy toolkit.
 * 🔬 **Research Interests:** Privacy-Preserving AI, Human-Centric AI, and Personalization.
-* 💬 **Pronouns:** He/His
 
 ### 🛠️ Tech & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Data%20Science-green?style=flat-square)
