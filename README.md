@@ -9,7 +9,7 @@ An AI leader and researcher dedicated to building **human-centric AI, personaliz
 ---
 
 ### 🚀 What I Do
-* 🧠 **Head of AI** at [Mindware.health](https://mindware.health)
+* 🧠 **Head of AI, Cofounder** at [Mindware.health](https://mindware.health)
 * 🛡️ **Core Contributor** to Microsoft's [Presidio](https://github.com/microsoft/presidio) privacy toolkit.
 * 🔬 **Research Interests:** Privacy-Preserving AI, Human-Centric AI, and Personalization.
 * 💬 **Pronouns:** He/His
