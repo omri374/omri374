@@ -21,10 +21,11 @@ An AI leader and researcher dedicated to building **human-centric AI, personaliz
 ### ✍️ Featured Writing
 I write about scaling NLP systems, data privacy, and information extraction. Here are some of my favorite pieces:
 
-* ⚡ **[How we reduced our text similarity runtime by 99.96%](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35)** *(Medium - Data Science at Microsoft)*
-* 🕵️‍♂️ **[Custom NLP approaches to data anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)** *(Towards Data Science)*
-* 📊 **[Evaluation framework for information extraction](https://devblogs.microsoft.com/cse/2021/01/13/evaluation-framework-for-information-extraction/)** *(Microsoft DevBlogs)*
-* 📈 **[Real-time time series analysis at scale for trending topics detection](https://devblogs.microsoft.com/cse/2019/01/02/real-time-time-series-analysis-at-scale-for-trending-topics-detection/)** *(Microsoft DevBlogs)*
+* **[Evaluating PII Detection Models: A Field Guide](https://omri-mendels.medium.com/evaluating-pii-detection-models-fa0c745d7a4c)**
+* **[How we reduced our text similarity runtime by 99.96%](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35)** *(Medium - Data Science at Microsoft)*
+* **[Custom NLP approaches to data anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)** *(Towards Data Science)*
+* **[Evaluation framework for information extraction](https://devblogs.microsoft.com/cse/2021/01/13/evaluation-framework-for-information-extraction/)** *(Microsoft DevBlogs)*
+* **[Real-time time series analysis at scale for trending topics detection](https://devblogs.microsoft.com/cse/2019/01/02/real-time-time-series-analysis-at-scale-for-trending-topics-detection/)** *(Microsoft DevBlogs)*
 
 <h3 align="left">📊 GitHub Analytics</h3>
 <p align="left">
